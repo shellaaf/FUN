@@ -21,6 +21,16 @@ Kelas : XIIRPL1
 Sekolah : SMK Telkom Malang
 <br>
 <br>
+Penjelasan Aplikasi
+<br>
+<br>
+Aplikasi ini dibuat untuk latihan soal menjelang UN untuk jenjang Sekolah Menegah Kejuruan (SMK). 
+Tujuan dari pembuatan aplikasi ini adalah untuk memberikan latihan soal kepada pelajar menjelang UN sehingga semakin banyak berlatih akan mendapatkan nilai yang sempurna. 
+Pada aplikasi ini terdapat tiga paket mata pelajaran yaitu Matematika, Bahasa Inggris, dan Bahasa Indonesia.
+Untuk mata pelajaran produktif tidak ada karena mangingat setiap SMK belum tentu memiliki jurusan yang sama.
+Setiap mata pelajaran tadi memiliki 10 chapter (bagian) dan setiap chapter (bagian) memiliki 10 soal yang siap untuk dikerjakan.
+Untuk memainkan aplikasi ini membutuhkan Smartphone android dengan versi minimum Jellybean API 16.
+<br>
 <br>
 <b>SCREENSHOOT HASIL APLIKASI</b>
 <br>
